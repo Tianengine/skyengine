@@ -1,0 +1,10 @@
+rock_manifest = {
+   doc = {
+      LICENSE = "7819280357adde826088d39d29df39d9",
+      ["README.md"] = "17a1ad19d3d93e88b2428d9bf16f102b"
+   },
+   lua = {
+      ["multipart.lua"] = "24fdb47e967ef9e989d7c2ac132bdfd9"
+   },
+   ["multipart-0.5.1-1.rockspec"] = "ea16dcf1def4bb1b3ffabc99859b6e46"
+}
