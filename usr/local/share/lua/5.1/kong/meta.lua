@@ -16,7 +16,7 @@ return {
   -- default value
   -- _NAME = "kong",
   -- modify value
-  -- _NAME = "TianEngine",
+  -- _NAME = "SkyEngine",
   -- 2.modify nginx_kong.lua 
   -- add line 
   -- server {
@@ -31,9 +31,9 @@ return {
   -- PROXY_LATENCY = "X-Kong-Proxy-Latency",
   -- UPSTREAM_LATENCY = "X-Kong-Upstream-Latency",
   -- modify value
-  -- PROXY_LATENCY = "X-Tianengine-Proxy-Latency",
-  -- UPSTREAM_LATENCY = "X-Tianengine-Upstream-Latency",
-  _NAME = "TianEngine",
+  -- PROXY_LATENCY = "X-Skyengine-Proxy-Latency",
+  -- UPSTREAM_LATENCY = "X-Skyengine-Upstream-Latency",
+  _NAME = "SkyEngine",
   _VERSION = tostring(version),
   _VERSION_TABLE = version,
 

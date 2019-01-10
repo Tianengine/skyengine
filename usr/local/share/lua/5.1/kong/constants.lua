@@ -39,8 +39,8 @@ return {
   -- non-standard headers, specific to Kong
   HEADERS = {
     HOST_OVERRIDE = "X-Host-Override",
-    PROXY_LATENCY = "X-Tianengine-Proxy-Latency",
-    UPSTREAM_LATENCY = "X-Tianengine-Upstream-Latency",
+    PROXY_LATENCY = "X-Skyengine-Proxy-Latency",
+    UPSTREAM_LATENCY = "X-Skyengine-Upstream-Latency",
     CONSUMER_ID = "X-Consumer-ID",
     CONSUMER_CUSTOM_ID = "X-Consumer-Custom-ID",
     CONSUMER_USERNAME = "X-Consumer-Username",
